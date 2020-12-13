@@ -1,19 +1,19 @@
 [{
         "pregunta": "¿Cual es tu fruta preferida?",
-        "respuesta-correcta": "Las uvas",
-        "respuesta-incorrecta-1": "El melón",
-        "respuesta-incorrecta-2": "La Sandia"
+        "respuestaCorrecta": "Las uvas",
+        "respuestaIncorrecta1": "El melón",
+        "respuestaIncorrecta2": "La Sandia"
     },
     {
         "pregunta": "¿Cual es tu postre favorito?",
-        "respuesta-correcta": "El helado",
-        "respuesta-incorrecta-1": "Arroz con leche",
-        "respuesta-incorrecta-2": "No me gustan los postres"
+        "respuestaCorrecta": "El helado",
+        "respuestaIncorrecta1": "Arroz con leche",
+        "respuestaIncorrecta2": "No me gustan los postres"
     },
     {
         "pregunta": "¿Cual es tu sabor de agua favorito?",
-        "respuesta-correcta": "Limón",
-        "respuesta-incorrecta-1": "Tamarindo",
-        "respuesta-incorrecta-2": "Horchata"
+        "respuestaCorrecta": "Limón",
+        "respuestaIncorrecta1": "Tamarindo",
+        "respuestaIncorrecta2": "Horchata"
     }
 ]
