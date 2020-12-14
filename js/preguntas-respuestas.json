@@ -15,5 +15,17 @@
         "respuestaCorrecta": "Limón",
         "respuestaIncorrecta1": "Tamarindo",
         "respuestaIncorrecta2": "Horchata"
+    },
+    {
+        "pregunta": "¿Cual es tu color favorito?",
+        "respuestaCorrecta": "verde",
+        "respuestaIncorrecta1": "Morado",
+        "respuestaIncorrecta2": "Cafe"
+    },
+    {
+        "pregunta": "¿Cual es tu pasatiempo favorito?",
+        "respuestaCorrecta": "Fotografía",
+        "respuestaIncorrecta1": "Pescar",
+        "respuestaIncorrecta2": "Hacer tarea"
     }
 ]
