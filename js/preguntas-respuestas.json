@@ -2,30 +2,36 @@
         "pregunta": "¿Cual es tu fruta preferida?",
         "respuestaCorrecta": "Las uvas",
         "respuestaIncorrecta1": "El melón",
-        "respuestaIncorrecta2": "La Sandia"
+        "respuestaIncorrecta2": "La Sandia",
+        "imagen": "assets/images/imagen-1.png"
+
     },
     {
         "pregunta": "¿Cual es tu postre favorito?",
         "respuestaCorrecta": "El helado",
         "respuestaIncorrecta1": "Arroz con leche",
-        "respuestaIncorrecta2": "No me gustan los postres"
+        "respuestaIncorrecta2": "No me gustan los postres",
+        "imagen": "assets/images/imagen-2.png"
     },
     {
         "pregunta": "¿Cual es tu sabor de agua favorito?",
         "respuestaCorrecta": "Limón",
         "respuestaIncorrecta1": "Tamarindo",
-        "respuestaIncorrecta2": "Horchata"
+        "respuestaIncorrecta2": "Horchata",
+        "imagen": "assets/images/imagen-3.png"
     },
     {
         "pregunta": "¿Cual es tu color favorito?",
         "respuestaCorrecta": "verde",
         "respuestaIncorrecta1": "Morado",
-        "respuestaIncorrecta2": "Cafe"
+        "respuestaIncorrecta2": "Cafe",
+        "imagen": "assets/images/imagen-4.png"
     },
     {
         "pregunta": "¿Cual es tu pasatiempo favorito?",
         "respuestaCorrecta": "Fotografía",
         "respuestaIncorrecta1": "Pescar",
-        "respuestaIncorrecta2": "Hacer tarea"
+        "respuestaIncorrecta2": "Hacer tarea",
+        "imagen": "assets/images/imagen-5.png"
     }
 ]
