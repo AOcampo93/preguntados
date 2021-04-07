@@ -1,37 +1,37 @@
 [{
-        "pregunta": "¿Cual es tu fruta preferida?",
-        "respuestaCorrecta": "Las uvas",
-        "respuestaIncorrecta1": "El melón",
-        "respuestaIncorrecta2": "La Sandia",
+        "pregunta": "What is it?",
+        "respuestaCorrecta": "Bear",
+        "respuestaIncorrecta1": "Bird",
+        "respuestaIncorrecta2": "Beard",
         "imagen": "assets/images/imagen-1.png"
 
     },
     {
-        "pregunta": "¿Cual es tu postre favorito?",
-        "respuestaCorrecta": "El helado",
-        "respuestaIncorrecta1": "Arroz con leche",
-        "respuestaIncorrecta2": "No me gustan los postres",
+        "pregunta": "What color is this?",
+        "respuestaCorrecta": "Orange",
+        "respuestaIncorrecta1": "Oregon",
+        "respuestaIncorrecta2": "Ornament",
         "imagen": "assets/images/imagen-2.png"
     },
     {
-        "pregunta": "¿Cual es tu sabor de agua favorito?",
-        "respuestaCorrecta": "Limón",
-        "respuestaIncorrecta1": "Tamarindo",
-        "respuestaIncorrecta2": "Horchata",
+        "pregunta": "What is the correct word?",
+        "respuestaCorrecta": "window",
+        "respuestaIncorrecta1": "Widow",
+        "respuestaIncorrecta2": "Windous",
         "imagen": "assets/images/imagen-3.png"
     },
     {
-        "pregunta": "¿Cual es tu color favorito?",
-        "respuestaCorrecta": "verde",
-        "respuestaIncorrecta1": "Morado",
-        "respuestaIncorrecta2": "Cafe",
+        "pregunta": "What fruit is this?",
+        "respuestaCorrecta": "Peach",
+        "respuestaIncorrecta1": "Apple",
+        "respuestaIncorrecta2": "Tomato",
         "imagen": "assets/images/imagen-4.png"
     },
     {
-        "pregunta": "¿Cual es tu pasatiempo favorito?",
-        "respuestaCorrecta": "Fotografía",
-        "respuestaIncorrecta1": "Pescar",
-        "respuestaIncorrecta2": "Hacer tarea",
+        "pregunta": "What figure is this?",
+        "respuestaCorrecta": "Triangle",
+        "respuestaIncorrecta1": "Square",
+        "respuestaIncorrecta2": "Circle",
         "imagen": "assets/images/imagen-5.png"
     }
 ]
